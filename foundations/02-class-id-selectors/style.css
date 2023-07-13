@@ -1,0 +1,22 @@
+* {
+    font-family: "Verdana", "DejaVu Sans", sans-serif; 
+}
+
+p {
+    background-color: #f29c8d;
+}
+
+.second-element {
+    color: #142ef5;
+    font-size: 36px;
+}
+
+.third-element {
+    font-size: 24px;
+}
+
+.forth-element {
+    background-color:#94fa4b;
+    font-size: 24px;
+    font-weight: bold;
+}
